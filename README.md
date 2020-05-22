@@ -1,4 +1,7 @@
 # [Josh Doody - Salary Negotiation for Software Developers](https://egghead.io/lessons/egghead-josh-doody-salary-negotiation-for-software-developers)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## Table of Contents
 
@@ -150,3 +153,22 @@ Make sure not to accept anything less than your minimum acceptable salary. For i
 When should you ask for equity as part of your offer? If you can put a dollar value on the equity (aka if it's a public company with equity), then it's okay to incorporate that into your primary negotiation.
 
 If you can't value the equity with real dollars or if it's a really early-stage startup, keep in mind that there's a fair chance that it may or may not pay off really big for you. In this instance, it's a good idea to focus more on negotiating salary as opposed to equity.
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/ceoraford"><img src="https://avatars2.githubusercontent.com/u/41582216?v=4" width="100px;" alt=""/><br /><sub><b>Ceora Ford</b></sub></a><br /><a href="#content-ceoraford" title="Content">🖋</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

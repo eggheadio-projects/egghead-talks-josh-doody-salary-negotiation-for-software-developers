@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "ceoraford",
+      "name": "Ceora Ford",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/41582216?v=4",
+      "profile": "https://github.com/ceoraford",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "egghead-talks-josh-doody-salary-negotiation-for-software-developers",
+  "projectOwner": "eggheadio-projects",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
